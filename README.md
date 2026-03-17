@@ -1,7 +1,5 @@
 <h1>Insurance Risk Scoring using Frequency–Severity Modeling</h1>
 
-<img src="Images/pipeline.png" alt="Insurance Risk Scoring Pipeline" style="max-width:25%;">
-
 <p><em>End-to-end insurance risk scoring pipeline using actuarial frequency–severity modeling.</em></p>
 
 <h2>1. Business Problem</h2>
